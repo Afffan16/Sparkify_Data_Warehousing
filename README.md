@@ -219,4 +219,3 @@ Questions? Want to jam on some data insights? Reach out and let’s make some no
 ## 📜 License
 
 This is an educational project for learning purposes, created as part of the SMIT Cloud Data Engineering (Batch 2) program.
-```
